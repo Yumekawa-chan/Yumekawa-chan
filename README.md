@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Yumekawa-chan
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning math.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏫 I’m a bachelor student at Tokyo Denki University.
+- 👀 I’m studying machine learning and Image processing.
 
 <!---
 Yumekawa-chan/Yumekawa-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
