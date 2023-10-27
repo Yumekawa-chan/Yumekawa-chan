@@ -9,6 +9,9 @@ Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 
 - 🌍 Eager to learn C++
 - ⚙️ Part-time server-side engineer
 - 🕶️ Passionate about 3D image processing
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumekawa-chan&layout=compact&theme=radical)
 
 ## 🎈 Fun Facts 
 - The thought of creating a **Time Machine** ⏳ keeps me dreaming!
@@ -18,3 +21,5 @@ Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 
 Living by the motto: **"Learn or Die"**. There's always something new to uncover in research and I'm here for it! 💡
 
 ---
+
+
