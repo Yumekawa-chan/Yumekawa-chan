@@ -1,10 +1,10 @@
 # 🌸 Yumekawa-chan 🌸
 
-Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 🏛️. Currently, I'm diving deep into the world of **Computer Vision**, with a special focus on 3D image processing 🌀🖼️. Ever since I got inspired by the visuals in **Sword Art Online** 🎮⚔️, the allure of 3D imagery has been impossible to resist.
+Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 🏛️. Currently, I'm diving deep into the world of **Computer Vision**, with a special focus on 3D image processing . Ever since I got inspired by the visuals in **Sword Art Online** , the allure of 3D imagery has been impossible to resist.
 
-🔗 Check out my lab: [033lab](https://033lab.org)
+🦄 Check out my lab: [033lab](https://033lab.org)
 
-💟 Check out my webpage: [webpage](https://yumekawa-holdings.com)
+🍼 Check out my webpage: [webpage](https://yumekawa-holdings.com)
 
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
