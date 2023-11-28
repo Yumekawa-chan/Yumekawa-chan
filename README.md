@@ -4,7 +4,7 @@ Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 
 
 🦄 Check out my lab: [033lab](https://033lab.org)
 
-🍼 Check out my webpage: [webpage](https://yumekawa-holdings.com)
+🍼 Check out my webpage: [Yumekawa Holdings](https://yumekawa-holdings.com)
 
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
