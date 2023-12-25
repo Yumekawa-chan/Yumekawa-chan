@@ -9,7 +9,7 @@ Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
 - 🌍 Eager to learn C++
-- ⚙️ Part-time server-side engineer
+- ⚙️ Part-time frontend engineer
 - 🕶️ Passionate about 3D image processing
   
   
