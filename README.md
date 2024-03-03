@@ -5,7 +5,7 @@ Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛�
 
 🦄 Check out my lab: [033lab](https://033lab.org)
 
-🍼 Check out my webpage: [Yumekawa Holdings]([https://yumekawa-holdings.com](https://my-homepage-alpha.vercel.app/))
+🍼 Check out my webpage: [Yumekawa Holdings](https://my-homepage-alpha.vercel.app/)
 
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
