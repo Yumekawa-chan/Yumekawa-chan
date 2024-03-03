@@ -1,6 +1,7 @@
+
 # 🌸 Yumekawa-chan 🌸
 
-Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 🏛️. Currently, I'm diving deep into the world of **Computer Vision**, with a special focus on 3D image processing . Ever since I got inspired by the visuals in **Sword Art Online** , the allure of 3D imagery has been impossible to resist.
+Hello there! I'm a 4th-year undergraduate student at Tokyo Denki University 🏛️. Currently, I'm diving into the exciting world of Virtual Reality (VR) 🕶️ and 3D image processing 💻. My adventure began with the awe-inspiring visuals of Sword Art Online 🗡️, igniting my passion for crafting lifelike 3D experiences.
 
 🦄 Check out my lab: [033lab](https://033lab.org)
 
@@ -10,18 +11,13 @@ Hello there! I'm a 4th-year undergraduate student at **Tokyo Denki University** 
 - 🐍 Proficient in Python 
 - 🌍 Eager to learn C++
 - ⚙️ Part-time frontend engineer
-- 🕶️ Passionate about 3D image processing
-  
+- 🕶️ Specializing in VR and 3D image processing
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumekawa-chan&layout=compact&theme=radical)
 
 ## 🎈 Fun Facts 
-- The thought of creating a **Time Machine** ⏳ keeps me dreaming!
-- I lift, bro! 🏋️ And after that, I love to chill in the sauna 🧖‍♂️.
+- Fascinated by the idea of inventing a **Time Machine** ⏳!
+- Fitness enthusiast 🏋️, with a penchant for relaxing in saunas 🧖‍♂️ post-workout.
 
 ## 💪 Motivation
-Living by the motto: **"Learn or Die"**. There's always something new to uncover in research and I'm here for it! 💡
-
----
-
-
+My driving force? The prospect of Friday Ramen! 🍜 Researching hard all week to savor that delicious bowl of noodles. 
