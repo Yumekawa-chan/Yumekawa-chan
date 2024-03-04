@@ -7,6 +7,8 @@ Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛�
 
 🍼 Check out my webpage: [Yumekawa Holdings](https://my-homepage-alpha.vercel.app/)
 
+📜 I often summarize a famous paper in an easy-to-understand.: [Slide Share](https://www.slideshare.net/MikihiroSuzuki1/)
+
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
 - 🌍 Eager to learn C++
