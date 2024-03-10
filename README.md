@@ -1,7 +1,7 @@
 
 # 🌸 Yumekawa-chan 🌸
 
-Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛️. Currently, I'm diving into the exciting world of Virtual Reality (VR) 🕶️ and 3D image processing 💻. My adventure began with the awe-inspiring visuals of Sword Art Online 🗡️, igniting my passion for crafting lifelike 3D experiences.
+Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛️. Currently, I'm studying Virtual Reality (VR) 🕶️ and 3D image processing 💻. My adventure began with the awe-inspiring visuals of Sword Art Online 🗡️, igniting my passion for crafting lifelike 3D experiences.
 
 🦄 Check out my lab: [033lab](https://033lab.org)
 
