@@ -14,8 +14,6 @@ Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛�
 - 🌍 Eager to learn C++
 - ⚙️ Part-time frontend engineer
 - 🕶️ Specializing in VR and 3D image processing
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumekawa-chan&layout=compact&theme=radical)
 
 ## 🎈 Fun Facts 
 - Fascinated by the idea of inventing a **Time Machine** ⏳!
