@@ -12,7 +12,7 @@ Hello there! I'm a first-year graduate student at Tokyo Denki University  🏛�
 ## 📚 Skills & Interests
 - 🐍 Proficient in Python 
 - 🌍 Eager to learn C++
-- ⚙️ Part-time frontend engineer
+- ⚙️ Part-time Software Engineer
 - 🕶️ Specializing in VR and 3D image processing
 
 ## 🎈 Fun Facts 
