@@ -1,4 +1,3 @@
-
 # 🌸 Yumekawa-chan 🌸
 
 ### I’m a VR researcher on a journey to becoming a software engineer🚀.
@@ -7,4 +6,13 @@
 
 #### 🍼 Check out my webpage: [Yumekawa Holdings](https://my-homepage-alpha.vercel.app/)
 
-#### 📜 I often summarize a famous paper in an easy-to-understand: [Slide Share](https://www.slideshare.net/MikihiroSuzuki1/)
+#### 📜 I often summarize a famous paper in an easy-to-understand way: [Slide Share](https://www.slideshare.net/MikihiroSuzuki1/)
+
+---
+
+##  🌈 My Commit Rules 🌈
+
+- **`fix`**: Bug fixes  
+- **`add`**: Add new features or files  
+- **`update`**: Modify features (not a bug fix)  
+- **`remove`**: Remove files or features  
