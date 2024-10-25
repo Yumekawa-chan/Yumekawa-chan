@@ -4,8 +4,6 @@
 
 #### 🦄 Check out my lab: [033lab](https://033lab.org)
 
-#### 🍼 Check out my Zenn: [Zenn](https://zenn.dev/yumekawa)
-
 #### 📜 I often summarize a famous paper in an easy-to-understand way: [Slide Share](https://www.slideshare.net/MikihiroSuzuki1/)
 
 ---
