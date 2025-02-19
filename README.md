@@ -1,10 +1,6 @@
 # 🌸 Yumekawa-chan 🌸
 
-### I’m a VR researcher on a journey to becoming a software engineer🚀.
-
-#### 🦄 Check out my lab: [033lab](https://033lab.org)
-
-#### 📜 I often summarize a famous paper in an easy-to-understand way: [Slide Share](https://www.slideshare.net/MikihiroSuzuki1/)
+### I'm aiming to be the ultimate 💪 and dreamily cute 🦄 full-stack engineer!
 
 ---
 
